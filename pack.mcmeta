@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format":32,
+    "pack_format": 43,
     "description": "The nostalgic feel in 32x. \n§8By Ozymandias and others"
+    "supported_formats": {
+      "min_inclusive": 43,
+      "max_inclusive": 43
+    }
   }
 }
