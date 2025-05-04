@@ -1,6 +1,2 @@
-{
-  "pack": {
-    "pack_format":32,
-    "description": "By a Contributor of Faithful"
-  }
-}
+The nostalgic feel in 32x. \n§8By Ozymandias and others
+Alpha 2 Release
